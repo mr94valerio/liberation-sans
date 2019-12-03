@@ -1,6 +1,13 @@
 @font-face {
     font-family: 'liberation-sans';
-    src: url("https://mr94valerio.github.io/liberation-sans/LiberationSans-Regular.tff") format("truetype");
+    src: url("https://mr94valerio.github.io/liberation-sans/LiberationSans-Regular.ttf") format("truetype");
     font-weight: 100;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'liberation-sans-bold';
+    src: url("https://mr94valerio.github.io/liberation-sans/LiberationSans-Bold.ttf") format("truetype");
+    font-weight: 200;
     font-style: normal;
 } 
